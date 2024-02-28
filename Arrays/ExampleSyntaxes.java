@@ -11,6 +11,9 @@ public class ExampleSyntaxes {
     public static void main(String args[]) {
         System.out.println("ExampleSyntaxes.main()");
 
+
+
+
         int array[] = new int[] { 10, 20, 30 };// valid
         int[] array2 = { 20, 30, 40 };// valid
         int[] array3 = new int[3];// valid
