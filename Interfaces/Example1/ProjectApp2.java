@@ -1,7 +1,7 @@
 package Interfaces.Example1;
 
 public interface ProjectApp2 {
-    int b = 30;
+    int b = 70;
 
     public void task3();
 
