@@ -9,7 +9,7 @@ public interface ProjectApp {
      * add construcors in
      * Interfaces due to interfaces no constructors.
      */
-    int a = 10;
+    int a = 40;
 
     /**
      * In Interfaces we declared methods and those methods will act like abstract
