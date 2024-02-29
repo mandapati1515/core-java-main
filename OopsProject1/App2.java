@@ -1,7 +1,7 @@
 package OopsProject1;
 
 public class App2 {
-    public int b = 20;
+    public int b = 40;
 
     public App2() {
         System.out.println("App2.App2()");
