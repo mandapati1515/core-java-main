@@ -2,7 +2,7 @@ package OopsProject1;
 
 public class App1 {
 
-    public int a = 10;
+    public int a = 20;
 
     public App1() {
         System.out.println("App1.App1()");
